@@ -1,1 +1,1 @@
-# simplehtml
+# simple html Domain Reseling Page
